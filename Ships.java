@@ -1,4 +1,3 @@
-package battleship;
 import java.util.ArrayList;
 
 public class Ships {
